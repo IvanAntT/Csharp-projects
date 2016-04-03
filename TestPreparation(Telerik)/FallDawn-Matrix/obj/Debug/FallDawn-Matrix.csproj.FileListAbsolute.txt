@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\FallDawn-Matrix\bin\Debug\FallDawn-Matrix.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\FallDawn-Matrix\bin\Debug\FallDawn-Matrix.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\FallDawn-Matrix\bin\Debug\FallDawn-Matrix.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\FallDawn-Matrix\obj\Debug\FallDawn-Matrix.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\FallDawn-Matrix\obj\Debug\FallDawn-Matrix.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\FallDawn-Matrix\obj\Debug\FallDawn-Matrix.pdb

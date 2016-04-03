@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Card-Wars\bin\Debug\Card-Wars.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Card-Wars\bin\Debug\Card-Wars.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Card-Wars\bin\Debug\Card-Wars.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Card-Wars\obj\Debug\Card-Wars.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Card-Wars\obj\Debug\Card-Wars.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Card-Wars\obj\Debug\Card-Wars.pdb

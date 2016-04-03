@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\EzikoviProcesori\SymbolTable\bin\Debug\SymbolTable.exe.config
+C:\MOI RABOTI\C#proekti\EzikoviProcesori\SymbolTable\bin\Debug\SymbolTable.exe
+C:\MOI RABOTI\C#proekti\EzikoviProcesori\SymbolTable\bin\Debug\SymbolTable.pdb
+C:\MOI RABOTI\C#proekti\EzikoviProcesori\SymbolTable\obj\Debug\SymbolTable.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\EzikoviProcesori\SymbolTable\obj\Debug\SymbolTable.exe
+C:\MOI RABOTI\C#proekti\EzikoviProcesori\SymbolTable\obj\Debug\SymbolTable.pdb

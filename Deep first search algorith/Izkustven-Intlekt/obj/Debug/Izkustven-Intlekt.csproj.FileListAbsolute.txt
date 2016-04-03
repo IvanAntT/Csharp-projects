@@ -1,0 +1,2 @@
+C:\MOI RABOTI\C#proekti\Izkustven-Intlekt\Izkustven-Intlekt\bin\Debug\Izkustven-Intlekt.exe.config
+C:\MOI RABOTI\C#proekti\Izkustven-Intlekt\Izkustven-Intlekt\obj\Debug\Izkustven-Intlekt.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Bull and cow-zadacha\bin\Debug\Bull and cow-zadacha.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Bull and cow-zadacha\bin\Debug\Bull and cow-zadacha.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Bull and cow-zadacha\bin\Debug\Bull and cow-zadacha.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Bull and cow-zadacha\obj\Debug\Bull and cow-zadacha.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Bull and cow-zadacha\obj\Debug\Bull and cow-zadacha.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Bull and cow-zadacha\obj\Debug\Bull and cow-zadacha.pdb

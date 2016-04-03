@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Neutron\bin\Debug\Neutron.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Neutron\bin\Debug\Neutron.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Neutron\bin\Debug\Neutron.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Neutron\obj\Debug\Neutron.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Neutron\obj\Debug\Neutron.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Neutron\obj\Debug\Neutron.pdb

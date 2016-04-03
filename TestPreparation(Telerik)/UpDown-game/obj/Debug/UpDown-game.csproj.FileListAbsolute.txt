@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\UpDown-game\bin\Debug\UpDown-game.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\UpDown-game\bin\Debug\UpDown-game.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\UpDown-game\bin\Debug\UpDown-game.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\UpDown-game\obj\Debug\UpDown-game.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\UpDown-game\obj\Debug\UpDown-game.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\UpDown-game\obj\Debug\UpDown-game.pdb

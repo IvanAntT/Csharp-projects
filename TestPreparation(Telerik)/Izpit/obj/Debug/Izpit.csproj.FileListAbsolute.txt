@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Izpit\bin\Debug\Izpit.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Izpit\bin\Debug\Izpit.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Izpit\bin\Debug\Izpit.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Izpit\obj\Debug\Izpit.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Izpit\obj\Debug\Izpit.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Izpit\obj\Debug\Izpit.pdb

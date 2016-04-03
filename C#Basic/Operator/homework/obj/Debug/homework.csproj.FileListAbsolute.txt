@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\Operator\homework\bin\Debug\homework.exe.config
+C:\MOI RABOTI\C#proekti\Operator\homework\bin\Debug\homework.exe
+C:\MOI RABOTI\C#proekti\Operator\homework\bin\Debug\homework.pdb
+C:\MOI RABOTI\C#proekti\Operator\homework\obj\Debug\homework.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\Operator\homework\obj\Debug\homework.exe
+C:\MOI RABOTI\C#proekti\Operator\homework\obj\Debug\homework.pdb

@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\Operator\pobitovi-oper\bin\Debug\pobitovi-oper.exe.config
+C:\MOI RABOTI\C#proekti\Operator\pobitovi-oper\bin\Debug\pobitovi-oper.exe
+C:\MOI RABOTI\C#proekti\Operator\pobitovi-oper\bin\Debug\pobitovi-oper.pdb
+C:\MOI RABOTI\C#proekti\Operator\pobitovi-oper\obj\Debug\pobitovi-oper.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\Operator\pobitovi-oper\obj\Debug\pobitovi-oper.exe
+C:\MOI RABOTI\C#proekti\Operator\pobitovi-oper\obj\Debug\pobitovi-oper.pdb

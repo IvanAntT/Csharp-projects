@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Tribonachi\bin\Debug\Tribonachi.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Tribonachi\bin\Debug\Tribonachi.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Tribonachi\bin\Debug\Tribonachi.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Tribonachi\obj\Debug\Tribonachi.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Tribonachi\obj\Debug\Tribonachi.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Tribonachi\obj\Debug\Tribonachi.pdb

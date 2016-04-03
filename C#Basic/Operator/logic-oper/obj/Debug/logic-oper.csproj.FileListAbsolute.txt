@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\Operator\logic-oper\bin\Debug\logic-oper.exe.config
+C:\MOI RABOTI\C#proekti\Operator\logic-oper\bin\Debug\logic-oper.exe
+C:\MOI RABOTI\C#proekti\Operator\logic-oper\bin\Debug\logic-oper.pdb
+C:\MOI RABOTI\C#proekti\Operator\logic-oper\obj\Debug\logic-oper.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\Operator\logic-oper\obj\Debug\logic-oper.exe
+C:\MOI RABOTI\C#proekti\Operator\logic-oper\obj\Debug\logic-oper.pdb

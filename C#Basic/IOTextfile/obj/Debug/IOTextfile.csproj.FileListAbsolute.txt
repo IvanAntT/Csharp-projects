@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\Csharp2\IOTextfile\bin\Debug\IOTextfile.exe.config
+C:\MOI RABOTI\C#proekti\Csharp2\IOTextfile\bin\Debug\IOTextfile.exe
+C:\MOI RABOTI\C#proekti\Csharp2\IOTextfile\bin\Debug\IOTextfile.pdb
+C:\MOI RABOTI\C#proekti\Csharp2\IOTextfile\obj\Debug\IOTextfile.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\Csharp2\IOTextfile\obj\Debug\IOTextfile.exe
+C:\MOI RABOTI\C#proekti\Csharp2\IOTextfile\obj\Debug\IOTextfile.pdb

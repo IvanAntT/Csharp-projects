@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Spiral-number\bin\Debug\Spiral-number.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Spiral-number\bin\Debug\Spiral-number.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Spiral-number\bin\Debug\Spiral-number.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Spiral-number\obj\Debug\Spiral-number.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Spiral-number\obj\Debug\Spiral-number.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Spiral-number\obj\Debug\Spiral-number.pdb

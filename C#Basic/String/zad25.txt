@@ -1,0 +1,4 @@
+<html>
+  <head><title>News</title></head>
+  <body><p><a href="htpp://academy.telerik.com">Telerik Academy</a>aims to provide free real-world<b>practical training</b>for young people who want to turn into skillful .NET software enfineers.</p></body>
+</html>

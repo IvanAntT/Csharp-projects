@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Bit-ball\bin\Debug\Bit-ball.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Bit-ball\bin\Debug\Bit-ball.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Bit-ball\bin\Debug\Bit-ball.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Bit-ball\obj\Debug\Bit-ball.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Bit-ball\obj\Debug\Bit-ball.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Bit-ball\obj\Debug\Bit-ball.pdb

@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\SubSet-sum\bin\Debug\SubSet-sum.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\SubSet-sum\bin\Debug\SubSet-sum.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\SubSet-sum\bin\Debug\SubSet-sum.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\SubSet-sum\obj\Debug\SubSet-sum.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\SubSet-sum\obj\Debug\SubSet-sum.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\SubSet-sum\obj\Debug\SubSet-sum.pdb

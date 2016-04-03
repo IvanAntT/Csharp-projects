@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\Csharp2\BroiniSistemi\bin\Debug\BroiniSistemi.exe.config
+C:\MOI RABOTI\C#proekti\Csharp2\BroiniSistemi\bin\Debug\BroiniSistemi.exe
+C:\MOI RABOTI\C#proekti\Csharp2\BroiniSistemi\bin\Debug\BroiniSistemi.pdb
+C:\MOI RABOTI\C#proekti\Csharp2\BroiniSistemi\obj\Debug\BroiniSistemi.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\Csharp2\BroiniSistemi\obj\Debug\BroiniSistemi.exe
+C:\MOI RABOTI\C#proekti\Csharp2\BroiniSistemi\obj\Debug\BroiniSistemi.pdb

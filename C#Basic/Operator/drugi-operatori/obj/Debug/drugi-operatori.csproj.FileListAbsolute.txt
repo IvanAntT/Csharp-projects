@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\Operator\drugi-operatori\bin\Debug\drugi-operatori.exe.config
+C:\MOI RABOTI\C#proekti\Operator\drugi-operatori\bin\Debug\drugi-operatori.exe
+C:\MOI RABOTI\C#proekti\Operator\drugi-operatori\bin\Debug\drugi-operatori.pdb
+C:\MOI RABOTI\C#proekti\Operator\drugi-operatori\obj\Debug\drugi-operatori.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\Operator\drugi-operatori\obj\Debug\drugi-operatori.exe
+C:\MOI RABOTI\C#proekti\Operator\drugi-operatori\obj\Debug\drugi-operatori.pdb

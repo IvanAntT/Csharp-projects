@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Carpet-Matrix\bin\Debug\Carpet-Matrix.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Carpet-Matrix\bin\Debug\Carpet-Matrix.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Carpet-Matrix\bin\Debug\Carpet-Matrix.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Carpet-Matrix\obj\Debug\Carpet-Matrix.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Carpet-Matrix\obj\Debug\Carpet-Matrix.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Carpet-Matrix\obj\Debug\Carpet-Matrix.pdb

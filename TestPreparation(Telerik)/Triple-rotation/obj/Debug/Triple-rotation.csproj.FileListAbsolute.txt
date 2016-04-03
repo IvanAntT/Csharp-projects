@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Triple-rotation\bin\Debug\Triple-rotation.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Triple-rotation\bin\Debug\Triple-rotation.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Triple-rotation\bin\Debug\Triple-rotation.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Triple-rotation\obj\Debug\Triple-rotation.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Triple-rotation\obj\Debug\Triple-rotation.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Triple-rotation\obj\Debug\Triple-rotation.pdb

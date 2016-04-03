@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Logo-Matrix\bin\Debug\Logo-Matrix.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Logo-Matrix\bin\Debug\Logo-Matrix.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Logo-Matrix\bin\Debug\Logo-Matrix.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Logo-Matrix\obj\Debug\Logo-Matrix.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Logo-Matrix\obj\Debug\Logo-Matrix.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Logo-Matrix\obj\Debug\Logo-Matrix.pdb

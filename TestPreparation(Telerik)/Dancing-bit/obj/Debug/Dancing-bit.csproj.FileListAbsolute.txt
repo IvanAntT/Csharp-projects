@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Dancing-bit\bin\Debug\Dancing-bit.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Dancing-bit\bin\Debug\Dancing-bit.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Dancing-bit\bin\Debug\Dancing-bit.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Dancing-bit\obj\Debug\Dancing-bit.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Dancing-bit\obj\Debug\Dancing-bit.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Dancing-bit\obj\Debug\Dancing-bit.pdb

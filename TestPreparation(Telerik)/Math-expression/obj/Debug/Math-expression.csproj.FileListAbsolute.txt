@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Math-expression\bin\Debug\Math-expression.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Math-expression\bin\Debug\Math-expression.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Math-expression\bin\Debug\Math-expression.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Math-expression\obj\Debug\Math-expression.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Math-expression\obj\Debug\Math-expression.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Math-expression\obj\Debug\Math-expression.pdb

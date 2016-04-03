@@ -1,0 +1,5 @@
+1 line from first=4 line from second: a
+2 line from first=7 line from second: b
+4 line from first=6 line from second: d
+6 line from first=2 line from second: f
+7 line from first=1 line from second: g

@@ -1,0 +1,9 @@
+C:\MOI RABOTI\C#proekti\kurs113203\kurs113203\bin\Debug\kurs113203.exe.config
+C:\MOI RABOTI\C#proekti\kurs113203\kurs113203\bin\Debug\kurs113203.exe
+C:\MOI RABOTI\C#proekti\kurs113203\kurs113203\bin\Debug\kurs113203.pdb
+C:\MOI RABOTI\C#proekti\kurs113203\kurs113203\obj\Debug\kurs113203.Properties.Resources.resources
+C:\MOI RABOTI\C#proekti\kurs113203\kurs113203\obj\Debug\kurs113203.csproj.GenerateResource.Cache
+C:\MOI RABOTI\C#proekti\kurs113203\kurs113203\obj\Debug\kurs113203.exe
+C:\MOI RABOTI\C#proekti\kurs113203\kurs113203\obj\Debug\kurs113203.pdb
+C:\MOI RABOTI\C#proekti\kurs113203\kurs113203\obj\Debug\kurs113203.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\kurs113203\kurs113203\obj\Debug\kurs113203.Form1.resources

@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\UK-flag\bin\Debug\UK-flag.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\UK-flag\bin\Debug\UK-flag.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\UK-flag\bin\Debug\UK-flag.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\UK-flag\obj\Debug\UK-flag.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\UK-flag\obj\Debug\UK-flag.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\UK-flag\obj\Debug\UK-flag.pdb

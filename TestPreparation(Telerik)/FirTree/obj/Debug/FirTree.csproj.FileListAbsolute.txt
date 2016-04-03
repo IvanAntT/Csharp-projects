@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\FirTree\bin\Debug\FirTree.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\FirTree\bin\Debug\FirTree.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\FirTree\bin\Debug\FirTree.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\FirTree\obj\Debug\FirTree.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\FirTree\obj\Debug\FirTree.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\FirTree\obj\Debug\FirTree.pdb

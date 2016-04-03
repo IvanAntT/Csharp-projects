@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\A-nacci\bin\Debug\A-nacci.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\A-nacci\bin\Debug\A-nacci.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\A-nacci\bin\Debug\A-nacci.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\A-nacci\obj\Debug\A-nacci.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\A-nacci\obj\Debug\A-nacci.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\A-nacci\obj\Debug\A-nacci.pdb

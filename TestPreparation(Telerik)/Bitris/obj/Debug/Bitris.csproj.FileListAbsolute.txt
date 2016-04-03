@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Bitris\bin\Debug\Bitris.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Bitris\bin\Debug\Bitris.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Bitris\bin\Debug\Bitris.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Bitris\obj\Debug\Bitris.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Bitris\obj\Debug\Bitris.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Bitris\obj\Debug\Bitris.pdb

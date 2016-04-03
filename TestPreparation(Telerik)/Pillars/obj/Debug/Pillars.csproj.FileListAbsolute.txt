@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Pillars\bin\Debug\Pillars.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Pillars\bin\Debug\Pillars.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Pillars\bin\Debug\Pillars.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Pillars\obj\Debug\Pillars.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Pillars\obj\Debug\Pillars.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Pillars\obj\Debug\Pillars.pdb

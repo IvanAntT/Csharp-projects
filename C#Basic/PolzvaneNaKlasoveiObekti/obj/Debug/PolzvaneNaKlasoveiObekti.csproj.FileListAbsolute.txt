@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\Csharp2\PolzvaneNaKlasoveiObekti\bin\Debug\PolzvaneNaKlasoveiObekti.exe.config
+C:\MOI RABOTI\C#proekti\Csharp2\PolzvaneNaKlasoveiObekti\bin\Debug\PolzvaneNaKlasoveiObekti.exe
+C:\MOI RABOTI\C#proekti\Csharp2\PolzvaneNaKlasoveiObekti\bin\Debug\PolzvaneNaKlasoveiObekti.pdb
+C:\MOI RABOTI\C#proekti\Csharp2\PolzvaneNaKlasoveiObekti\obj\Debug\PolzvaneNaKlasoveiObekti.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\Csharp2\PolzvaneNaKlasoveiObekti\obj\Debug\PolzvaneNaKlasoveiObekti.exe
+C:\MOI RABOTI\C#proekti\Csharp2\PolzvaneNaKlasoveiObekti\obj\Debug\PolzvaneNaKlasoveiObekti.pdb

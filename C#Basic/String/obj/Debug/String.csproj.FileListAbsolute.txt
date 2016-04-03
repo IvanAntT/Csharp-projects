@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\Csharp2\String\bin\Debug\String.exe.config
+C:\MOI RABOTI\C#proekti\Csharp2\String\bin\Debug\String.exe
+C:\MOI RABOTI\C#proekti\Csharp2\String\bin\Debug\String.pdb
+C:\MOI RABOTI\C#proekti\Csharp2\String\obj\Debug\String.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\Csharp2\String\obj\Debug\String.exe
+C:\MOI RABOTI\C#proekti\Csharp2\String\obj\Debug\String.pdb

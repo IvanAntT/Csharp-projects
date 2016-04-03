@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\Csharp2\Exeption\bin\Debug\Exeption.exe.config
+C:\MOI RABOTI\C#proekti\Csharp2\Exeption\bin\Debug\Exeption.exe
+C:\MOI RABOTI\C#proekti\Csharp2\Exeption\bin\Debug\Exeption.pdb
+C:\MOI RABOTI\C#proekti\Csharp2\Exeption\obj\Debug\Exeption.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\Csharp2\Exeption\obj\Debug\Exeption.exe
+C:\MOI RABOTI\C#proekti\Csharp2\Exeption\obj\Debug\Exeption.pdb

@@ -1,0 +1,5 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Astral\bin\Debug\Astral.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Astral\bin\Debug\Astral.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Astral\bin\Debug\Astral.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Astral\obj\Debug\Astral.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Astral\obj\Debug\Astral.pdb

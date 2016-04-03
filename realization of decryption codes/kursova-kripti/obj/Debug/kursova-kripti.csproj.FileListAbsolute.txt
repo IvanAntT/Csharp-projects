@@ -1,0 +1,9 @@
+C:\MOI RABOTI\C#proekti\kursova-kripti\kursova-kripti\bin\Debug\kursova-kripti.exe.config
+C:\MOI RABOTI\C#proekti\kursova-kripti\kursova-kripti\bin\Debug\kursova-kripti.exe
+C:\MOI RABOTI\C#proekti\kursova-kripti\kursova-kripti\bin\Debug\kursova-kripti.pdb
+C:\MOI RABOTI\C#proekti\kursova-kripti\kursova-kripti\obj\Debug\kursova_kripti.Form1.resources
+C:\MOI RABOTI\C#proekti\kursova-kripti\kursova-kripti\obj\Debug\kursova_kripti.Properties.Resources.resources
+C:\MOI RABOTI\C#proekti\kursova-kripti\kursova-kripti\obj\Debug\kursova-kripti.csproj.GenerateResource.Cache
+C:\MOI RABOTI\C#proekti\kursova-kripti\kursova-kripti\obj\Debug\kursova-kripti.exe
+C:\MOI RABOTI\C#proekti\kursova-kripti\kursova-kripti\obj\Debug\kursova-kripti.pdb
+C:\MOI RABOTI\C#proekti\kursova-kripti\kursova-kripti\obj\Debug\kursova-kripti.csprojResolveAssemblyReference.cache

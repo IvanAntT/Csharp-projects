@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\count bit\bin\Debug\count bit.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\count bit\bin\Debug\count bit.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\count bit\bin\Debug\count bit.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\count bit\obj\Debug\count bit.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\count bit\obj\Debug\count bit.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\count bit\obj\Debug\count bit.pdb

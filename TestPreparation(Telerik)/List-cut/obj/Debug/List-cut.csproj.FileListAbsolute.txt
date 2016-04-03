@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\List-cut\bin\Debug\List-cut.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\List-cut\bin\Debug\List-cut.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\List-cut\bin\Debug\List-cut.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\List-cut\obj\Debug\List-cut.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\List-cut\obj\Debug\List-cut.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\List-cut\obj\Debug\List-cut.pdb

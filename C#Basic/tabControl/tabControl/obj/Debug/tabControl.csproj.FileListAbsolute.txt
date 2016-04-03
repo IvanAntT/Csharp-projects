@@ -1,0 +1,9 @@
+C:\MOI RABOTI\C#proekti\tabControl\tabControl\bin\Debug\tabControl.exe.config
+C:\MOI RABOTI\C#proekti\tabControl\tabControl\bin\Debug\tabControl.exe
+C:\MOI RABOTI\C#proekti\tabControl\tabControl\bin\Debug\tabControl.pdb
+C:\MOI RABOTI\C#proekti\tabControl\tabControl\obj\Debug\tabControl.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\tabControl\tabControl\obj\Debug\tabControl.Form1.resources
+C:\MOI RABOTI\C#proekti\tabControl\tabControl\obj\Debug\tabControl.Properties.Resources.resources
+C:\MOI RABOTI\C#proekti\tabControl\tabControl\obj\Debug\tabControl.csproj.GenerateResource.Cache
+C:\MOI RABOTI\C#proekti\tabControl\tabControl\obj\Debug\tabControl.exe
+C:\MOI RABOTI\C#proekti\tabControl\tabControl\obj\Debug\tabControl.pdb

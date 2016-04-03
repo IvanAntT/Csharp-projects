@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\Csharp2\Metodi\bin\Debug\Metodi.exe.config
+C:\MOI RABOTI\C#proekti\Csharp2\Metodi\bin\Debug\Metodi.exe
+C:\MOI RABOTI\C#proekti\Csharp2\Metodi\bin\Debug\Metodi.pdb
+C:\MOI RABOTI\C#proekti\Csharp2\Metodi\obj\Debug\Metodi.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\Csharp2\Metodi\obj\Debug\Metodi.exe
+C:\MOI RABOTI\C#proekti\Csharp2\Metodi\obj\Debug\Metodi.pdb

@@ -1,0 +1,9 @@
+C:\MOI RABOTI\C#proekti\matrica\matrica\bin\Debug\matrica.exe.config
+C:\MOI RABOTI\C#proekti\matrica\matrica\bin\Debug\matrica.exe
+C:\MOI RABOTI\C#proekti\matrica\matrica\bin\Debug\matrica.pdb
+C:\MOI RABOTI\C#proekti\matrica\matrica\obj\Debug\matrica.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\matrica\matrica\obj\Debug\matrica.Form1.resources
+C:\MOI RABOTI\C#proekti\matrica\matrica\obj\Debug\matrica.Properties.Resources.resources
+C:\MOI RABOTI\C#proekti\matrica\matrica\obj\Debug\matrica.csproj.GenerateResource.Cache
+C:\MOI RABOTI\C#proekti\matrica\matrica\obj\Debug\matrica.exe
+C:\MOI RABOTI\C#proekti\matrica\matrica\obj\Debug\matrica.pdb

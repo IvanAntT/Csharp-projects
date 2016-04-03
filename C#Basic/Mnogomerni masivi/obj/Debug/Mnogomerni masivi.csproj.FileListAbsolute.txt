@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\Csharp2\Mnogomerni masivi\bin\Debug\Mnogomerni masivi.exe.config
+C:\MOI RABOTI\C#proekti\Csharp2\Mnogomerni masivi\bin\Debug\Mnogomerni masivi.exe
+C:\MOI RABOTI\C#proekti\Csharp2\Mnogomerni masivi\bin\Debug\Mnogomerni masivi.pdb
+C:\MOI RABOTI\C#proekti\Csharp2\Mnogomerni masivi\obj\Debug\Mnogomerni masivi.exe
+C:\MOI RABOTI\C#proekti\Csharp2\Mnogomerni masivi\obj\Debug\Mnogomerni masivi.pdb
+C:\MOI RABOTI\C#proekti\Csharp2\Mnogomerni masivi\obj\Debug\Mnogomerni masivi.csprojResolveAssemblyReference.cache

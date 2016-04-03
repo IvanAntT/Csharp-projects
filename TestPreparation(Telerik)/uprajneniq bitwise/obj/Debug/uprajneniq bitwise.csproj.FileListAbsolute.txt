@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\uprajneniq bitwise\bin\Debug\uprajneniq bitwise.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\uprajneniq bitwise\bin\Debug\uprajneniq bitwise.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\uprajneniq bitwise\bin\Debug\uprajneniq bitwise.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\uprajneniq bitwise\obj\Debug\uprajneniq bitwise.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\uprajneniq bitwise\obj\Debug\uprajneniq bitwise.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\uprajneniq bitwise\obj\Debug\uprajneniq bitwise.pdb

@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Miss-cat\bin\Debug\Miss-cat.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Miss-cat\bin\Debug\Miss-cat.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Miss-cat\bin\Debug\Miss-cat.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Miss-cat\obj\Debug\Miss-cat.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Miss-cat\obj\Debug\Miss-cat.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Miss-cat\obj\Debug\Miss-cat.pdb

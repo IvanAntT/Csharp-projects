@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\Csharp2\masivi\bin\Debug\masivi.exe.config
+C:\MOI RABOTI\C#proekti\Csharp2\masivi\bin\Debug\masivi.exe
+C:\MOI RABOTI\C#proekti\Csharp2\masivi\bin\Debug\masivi.pdb
+C:\MOI RABOTI\C#proekti\Csharp2\masivi\obj\Debug\masivi.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\Csharp2\masivi\obj\Debug\masivi.exe
+C:\MOI RABOTI\C#proekti\Csharp2\masivi\obj\Debug\masivi.pdb

@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\Operator\arit-operator\bin\Debug\arit-operator.exe.config
+C:\MOI RABOTI\C#proekti\Operator\arit-operator\bin\Debug\arit-operator.exe
+C:\MOI RABOTI\C#proekti\Operator\arit-operator\bin\Debug\arit-operator.pdb
+C:\MOI RABOTI\C#proekti\Operator\arit-operator\obj\Debug\arit-operator.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\Operator\arit-operator\obj\Debug\arit-operator.exe
+C:\MOI RABOTI\C#proekti\Operator\arit-operator\obj\Debug\arit-operator.pdb

@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\FallDown Array-Bitwise\bin\Debug\FallDown Array-Bitwise.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\FallDown Array-Bitwise\bin\Debug\FallDown Array-Bitwise.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\FallDown Array-Bitwise\bin\Debug\FallDown Array-Bitwise.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\FallDown Array-Bitwise\obj\Debug\FallDown Array-Bitwise.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\FallDown Array-Bitwise\obj\Debug\FallDown Array-Bitwise.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\FallDown Array-Bitwise\obj\Debug\FallDown Array-Bitwise.pdb

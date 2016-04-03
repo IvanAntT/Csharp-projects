@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Angry-bits\bin\Debug\Angry-bits.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Angry-bits\bin\Debug\Angry-bits.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Angry-bits\bin\Debug\Angry-bits.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Angry-bits\obj\Debug\Angry-bits.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Angry-bits\obj\Debug\Angry-bits.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Angry-bits\obj\Debug\Angry-bits.pdb

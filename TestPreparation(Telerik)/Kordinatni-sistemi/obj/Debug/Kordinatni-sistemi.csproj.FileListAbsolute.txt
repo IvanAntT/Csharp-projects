@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Kordinatni-sistemi\bin\Debug\Kordinatni-sistemi.exe.config
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Kordinatni-sistemi\bin\Debug\Kordinatni-sistemi.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Kordinatni-sistemi\bin\Debug\Kordinatni-sistemi.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Kordinatni-sistemi\obj\Debug\Kordinatni-sistemi.exe
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Kordinatni-sistemi\obj\Debug\Kordinatni-sistemi.pdb
+C:\MOI RABOTI\C#proekti\podgotovka za izpit\Kordinatni-sistemi\obj\Debug\Kordinatni-sistemi.csprojResolveAssemblyReference.cache

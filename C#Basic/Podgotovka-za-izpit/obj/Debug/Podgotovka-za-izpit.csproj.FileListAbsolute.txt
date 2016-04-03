@@ -1,0 +1,6 @@
+C:\MOI RABOTI\C#proekti\Csharp2\Podgotovka-za-izpit\bin\Debug\Podgotovka-za-izpit.exe.config
+C:\MOI RABOTI\C#proekti\Csharp2\Podgotovka-za-izpit\bin\Debug\Podgotovka-za-izpit.exe
+C:\MOI RABOTI\C#proekti\Csharp2\Podgotovka-za-izpit\bin\Debug\Podgotovka-za-izpit.pdb
+C:\MOI RABOTI\C#proekti\Csharp2\Podgotovka-za-izpit\obj\Debug\Podgotovka-za-izpit.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\Csharp2\Podgotovka-za-izpit\obj\Debug\Podgotovka-za-izpit.exe
+C:\MOI RABOTI\C#proekti\Csharp2\Podgotovka-za-izpit\obj\Debug\Podgotovka-za-izpit.pdb

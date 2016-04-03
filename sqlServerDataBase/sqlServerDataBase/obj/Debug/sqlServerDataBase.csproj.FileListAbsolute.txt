@@ -1,0 +1,9 @@
+C:\MOI RABOTI\C#proekti\sqlServerDataBase\sqlServerDataBase\bin\Debug\sqlServerDataBase.exe.config
+C:\MOI RABOTI\C#proekti\sqlServerDataBase\sqlServerDataBase\obj\Debug\sqlServerDataBase.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\sqlServerDataBase\sqlServerDataBase\obj\Debug\sqlServerDataBase.Form1.resources
+C:\MOI RABOTI\C#proekti\sqlServerDataBase\sqlServerDataBase\obj\Debug\sqlServerDataBase.Properties.Resources.resources
+C:\MOI RABOTI\C#proekti\sqlServerDataBase\sqlServerDataBase\obj\Debug\sqlServerDataBase.csproj.GenerateResource.Cache
+C:\MOI RABOTI\C#proekti\sqlServerDataBase\sqlServerDataBase\bin\Debug\sqlServerDataBase.exe
+C:\MOI RABOTI\C#proekti\sqlServerDataBase\sqlServerDataBase\bin\Debug\sqlServerDataBase.pdb
+C:\MOI RABOTI\C#proekti\sqlServerDataBase\sqlServerDataBase\obj\Debug\sqlServerDataBase.exe
+C:\MOI RABOTI\C#proekti\sqlServerDataBase\sqlServerDataBase\obj\Debug\sqlServerDataBase.pdb
